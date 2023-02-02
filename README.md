@@ -16,8 +16,8 @@ Fitur yang dibutuhkan:
   6. Customer dapat melihat total harga belanja
 
 # Flow chart
+![image](https://user-images.githubusercontent.com/25927592/216378036-a827e293-f1aa-441c-82a6-24e9d8ce0fb6.png)
 
-![image](https://user-images.githubusercontent.com/25927592/216376212-ff2a9177-e69c-478f-b4b5-7f9643cb8b62.png)
 
 # Deskripsi Fungsi dan Kelas
   1. Kelas dataPembelianPerItem: Kelas untuk menampung informasi harga barang dan jumlah barang
